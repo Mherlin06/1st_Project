@@ -37,7 +37,7 @@ https://codepen.io/Mherlin06/pen/yLPQWLa
 While coding this project i learned few things:
 
 - Set up my work with Git and GitHub
-- Using some google Fonts with "<link>"
+- Using some google Fonts with 
 - testing flexbox multiple times to get the result i want
 - Using flexbox to center some blocks/div (using height & width)
 - creating a small footer
